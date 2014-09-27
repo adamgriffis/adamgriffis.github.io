@@ -1,3 +1,6 @@
 [submodule "backbone-todo"]
 	path = backbone-todo
 	url = https://github.com/adamgriffis/backbone-todo.git
+[submodule "ObidiahCareerDayGameDemo"]
+	path = ObidiahCareerDayGameDemo
+	url = https://github.com/adamgriffis/ObidiahCareerDayGameDemo.git
