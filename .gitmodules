@@ -1,0 +1,3 @@
+[submodule "backbone-todo"]
+	path = backbone-todo
+	url = https://github.com/adamgriffis/backbone-todo.git
