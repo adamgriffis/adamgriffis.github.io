@@ -7,7 +7,7 @@
 define([
   'underscore',
   'backbone',
-  'lib/backbone.localstorage',
+  'lib/backbone.localStorage',
   'models/todo'
   ], function(_, Backbone, Store, Todo){
 
